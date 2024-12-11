@@ -758,7 +758,8 @@ ol {
 -----------------------*/
 
 .categories__item {
-	height: 270px;
+	height: 170px;
+	width: 170px;
 	position: relative;
 }
 
@@ -858,7 +859,8 @@ ol {
 }
 
 .featured__item__pic {
-	height: 270px;
+	height: 170px;
+	width: 170px;
 	position: relative;
 	overflow: hidden;
 	background-position: center center;
@@ -3408,6 +3410,7 @@ ol {
 	}
 	.header__menu {
 		display: none;
+		
 	}
 	.header__cart {
 		text-align: center;
