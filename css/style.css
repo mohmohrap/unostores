@@ -759,8 +759,8 @@ ol {
 -----------------------*/
 
 .categories__item {
-	height: 170px;
-	width: 170px;
+	height: 120px;
+	width: 120px;
 	position: relative;
 }
 
@@ -3018,6 +3018,7 @@ ol {
 	}
 	.humberger__menu__logo {
 		margin-bottom: 30px;
+		width: 110px;
 	}
 	.humberger__menu__logo a {
 		display: inline-block;
