@@ -409,6 +409,7 @@ ol {
 
 .header__logo {
 	padding: 15px 0;
+	width: 130px;
 }
 
 .header__logo a {
@@ -2634,6 +2635,7 @@ ol {
 
 .footer__about__logo {
 	margin-bottom: 15px;
+	width: 110px;
 }
 
 .footer__about__logo a {
